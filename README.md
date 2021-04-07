@@ -2,15 +2,18 @@
 Written by: Katherine Epifanio
 
 Purpose:
+        
         This program solves a sudoku puzzle using a Constraint
         Satisfaction Problem approach with Conflict-Directed
         Backtracking.
 
 Files Included:
+        
         sudoku.py           -   Contains all of the source code.
         Test file directory
 
 Compiling & Usage:
+        
         python sudoku.py [FILENAME]
 
         The program requires 1 text file argument containing the
